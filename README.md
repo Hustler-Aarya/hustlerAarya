@@ -1,7 +1,7 @@
-[![MasterHead](https://www.freepik.com/premium-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_18719376.img)]
+[![MasterHead](https://img.freepik.com/premium-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5582.jpg)]
 <h1 align="center">Hi 👋, I'm Aarya Kapoor</h1>
 <h3 align="center">Here, I am building some cool stuff</h3>
-(img align="right" alt="Coding" width="400" src="https://in.pinterest.com/pin/59813501292017265/")
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hustler-aarya&label=Profile%20views&color=0e75b6&style=flat" alt="hustler-aarya" /> </p>
