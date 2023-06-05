@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/premium-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5582.jpg)]
+![MasterHead](https://img.freepik.com/premium-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5582.jpg)]
 <h1 align="center">Hi 👋, I'm Aarya Kapoor</h1>
 <h3 align="center">Here, I am building some cool stuff</h3>
 
